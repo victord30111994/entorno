@@ -10,7 +10,7 @@ public class Principal {
 		Carrera juego;
 		int jugador = 1;
 		int numeroDeJugadores;
-
+//lidfgldg
 		try {
 			System.out.println("Introduce el numero de jugadores: ");
 			numeroDeJugadores = Integer.parseInt(teclado.nextLine());
