@@ -12,7 +12,7 @@ public class Principal {
 		int numeroDeJugadores;
 //lidfgldg
 		try {
-			//Paradigma
+			//Paradigma asd eafasfbsegsef
 			System.out.println("Introduce el numero de jugadores: ");
 			numeroDeJugadores = Integer.parseInt(teclado.nextLine());
 
