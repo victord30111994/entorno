@@ -12,6 +12,7 @@ public class Principal {
 		int numeroDeJugadores;
 //lidfgldg
 		try {
+			//Paradigma
 			System.out.println("Introduce el numero de jugadores: ");
 			numeroDeJugadores = Integer.parseInt(teclado.nextLine());
 
@@ -30,7 +31,7 @@ public class Principal {
 		}
 
 	}
-
+//QUE ESTA MAAAAAAAAAAAAAAAAAAAL!!!!!!!!!!!
 	private static int jugada(Carrera juego, int jugador) {
 		int dado;
 		System.out.println("Turno del jugador: " + jugador + ".Puntos del dado: ");
